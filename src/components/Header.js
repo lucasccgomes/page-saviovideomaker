@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import { Link } from 'react-scroll';
 import themeList from '../data/themeList';
 // eslint-disable-next-line import/no-unresolved
-import Logo from '../assets/images/logo-2.png';
+import Logo from '../assets/images/logo-3.png';
 import ThemeSwitcher from './ThemeSwitcher';
 
 const HeaderStyles = styled.header`

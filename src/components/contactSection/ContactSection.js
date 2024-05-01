@@ -69,7 +69,7 @@ function ContactSection() {
         <div className="contact__wrapper">
           <div className="container_icon">
             <a
-              href="https://www.instagram.com/saviovideomaker/"
+              href="https://www.instagram.com/osaviovideomaker"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -78,7 +78,7 @@ function ContactSection() {
               </div>
             </a>
             <a
-              href="https://api.whatsapp.com/send/?phone=5591986060461&text=Ol%C3%A1%21+Estou+interessado+em+seus+servi%C3%A7os+de+cria%C3%A7%C3%A3o+e+edi%C3%A7%C3%A3o+de+v%C3%ADdeo.+Poderia+me+informar+mais+detalhes+sobre+os+servi%C3%A7os+oferecidos+e+os+pre%C3%A7os%3F+Obrigado%21&type=phone_number&app_absent=0"
+              href="https://api.whatsapp.com/send/?phone=5591986060461&text=Ol%C3%A1%21+Estou+interessado+em+seus+servi%C3%A7os+de+cria%C3%A7%C3%A3o+e+edi%C3%A7%C3%A3o+de+v%C3%ADdeo.+Poderia+me+informar+mais+detalhes+sobre+os+servi%C3%A7os+oferecidos+%3F+Obrigado%21&type=phone_number&app_absent=0"
               target="_blank"
               rel="noopener noreferrer"
             >

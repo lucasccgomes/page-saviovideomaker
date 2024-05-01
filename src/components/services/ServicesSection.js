@@ -43,7 +43,7 @@ function ServicesSection() {
           />
           <ServiceItem
             icon={<FaInstagram />}
-            title="@saviovideomaker"
+            title="@osaviovideomaker"
             desc="Descubra como transformar seu smartphone em uma poderosa ferramenta de criação de vídeos! Sigo compartilhando dicas, técnicas e segredos no Instagram."
           />
         </div>

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-scroll';
 import styled from 'styled-components';
-import Logo from '../assets/images/logo-2.png';
+import Logo from '../assets/images/logo-3.png';
 import ParagraphText from './paragraphTexts/ParagraphText';
 
 const FooterStyles = styled.footer`
